@@ -4,7 +4,7 @@ This repository represents the completion of HHA 504 Assignment # 3 Part 1
 
 Instructions:
 
-Create a new github repo called 'flask-part-1': 
+Create a new github repo called 'flask-html': 
 
 Inside of the repo, please create at least 2 pages that are manually styled using HTML and CSS (no bootstrap). Each of the pages at a minimum should contain: 
 - static text (e.g., headers or paragraphs) 
